@@ -13,7 +13,10 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@astrojs/preact": "^3.0.1",
+    "@astrojs/rss": "^3.0.0",
     "@azure/static-web-apps-cli": "^1.1.4",
-    "astro": "^3.4.3"
+    "astro": "^3.4.3",
+    "preact": "^10.19.2"
   }
 }
